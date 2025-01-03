@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hellblazer Versus
+- 👋 Hi, I’m Versus
 - 👀 I’m interested in AI & advanced algorithms.
 - 🌱 I’m currently trying to get stronghold over python & C++
 - 💞️ I’m looking to collaborate on teams for projects & research on AI
